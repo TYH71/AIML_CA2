@@ -1,9 +1,9 @@
 # ST1511 AI and Machine Learning
 
 - Name: Tan Yu Hoe
-- Admin No: P2026309
-- Class: DAAA/FT/2A/04
 - Module Lecturer: Wilson Qiu Zixuan
+
+---
 
 ## Repository
 
