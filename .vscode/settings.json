@@ -1,0 +1,21 @@
+{
+    "python.pythonPath": "C:\\Users\\yuhoe\\AppData\\Local\\Microsoft\\WindowsApps\\python3.8.exe",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#138c92",
+        "activityBar.activeBorder": "#8d1287",
+        "activityBar.background": "#138c92",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#8d1287",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#0d6165",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#138c92",
+        "titleBar.activeBackground": "#0d6165",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#0d616599",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#0d6165",
+    "discord.enabled": true
+}
